@@ -1,0 +1,30 @@
+\documentclass[12pt, oneside]{report}
+
+\usepackage{geometry}
+\geometry{letterpaper}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{parskip}
+\usepackage{color}
+%\usepackage{hyperref}
+%\setlength{\cftchapnumwidth}{2.5em}
+
+\PassOptionsToPackage{hyphens}{url}
+\usepackage[hidelinks, 
+colorlinks=true, 
+linkcolor=blue, 
+urlcolor=red]{hyperref}
+
+\graphicspath{{/Users/telliott/Dropbox/Github-Math/quickgeo/figures/}{/Users/telliott/Dropbox/Github-math/figures/}}
+
+\title{Geometry by proof}
+\author{Tom Elliott}
+\date{\today}
+
+\begin{document}
+\maketitle
+\tableofcontents
+
+\large
+
