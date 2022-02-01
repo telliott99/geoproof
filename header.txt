@@ -16,7 +16,7 @@ colorlinks=true,
 linkcolor=blue, 
 urlcolor=red]{hyperref}
 
-\graphicspath{{/Users/telliott/Dropbox/Github-Math/quickgeo/figures/}{/Users/telliott/Dropbox/Github-math/figures/}}
+\graphicspath{{/Users/telliott/Dropbox/Github-Math/geoproof/figures/}{/Users/telliott/Dropbox/Github-math/figures/}}
 
 \title{Geometry by proof}
 \author{Tom Elliott}
